@@ -1,0 +1,25 @@
+
+* {
+  text-align: center;
+}
+
+input, button {
+  height: 3rem;
+  font-weight: bolder;
+}
+
+input {
+  background-color: hsl(189, 41%, 97%);
+  border: none;
+}
+
+
+.counterContainer {
+  background-color: hsl(185, 41%, 84%);
+  position: absolute;
+  transform: translate(-50%, -50%);
+  left: 50%;
+  top: 50%;
+  border-radius: 20px;
+  padding: 2%;
+}
